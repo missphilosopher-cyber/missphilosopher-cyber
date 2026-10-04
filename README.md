@@ -1,16 +1,79 @@
-## Hi there 👋
+<p align="center">
+  <img src="./aayushya-github-banner.gif" alt="Aayushya's systems lab: animated terminal and digital-twin networks" width="100%" />
+</p>
 
-<!--
-**missphilosopher-cyber/missphilosopher-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-light.svg" />
+  <img src="./assets/title-light.svg" alt="Building systems. Testing ideas. — Python, Digital Twins, Cybersecurity, Applied ML" width="800" />
+</picture>
+</p>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <img src="./assets/divider-light.svg" alt="" width="800" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+  <img src="./assets/about-light.svg" alt="About" width="800" />
+</picture>
+
+I'm **Aayushya Lekule**, a Computer Science student at
+**MIT-WPU**, specializing in **Cybersecurity & Forensics**.
+
+I think in systems and learn by building. This is where I turn
+concepts into working programs, test ideas, and document the
+decisions behind them.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workbench-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/workbench-light.svg" />
+  <img src="./assets/workbench-light.svg" alt="On my workbench" width="800" />
+</picture>
+
+### Python from scratch
+A growing collection of programs and mini projects—from
+fundamentals toward more advanced implementations.
+
+### Applied machine learning
+Exploring supervised learning, model evaluation, and data
+visualization through practical experiments.
+
+### Digital-twin research
+Exploring digital-twin modelling and security.
+Research is ongoing; the scope is still evolving.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tools-light.svg" />
+  <img src="./assets/tools-light.svg" alt="Working with" width="800" />
+</picture>
+
+**Languages:** Python · SQL
+
+**Data & visualization:** Pandas · NumPy · Matplotlib · Seaborn
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-light.svg" />
+  <img src="./assets/work-light.svg" alt="What you’ll find here" width="800" />
+</picture>
+
+- Working programs with clear instructions and example outputs.
+- Experiments with visual results and explanations.
+- Project decisions, limitations, and improvements.
+- A record of progress through increasingly challenging builds.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <img src="./assets/divider-light.svg" alt="" width="800" />
+</picture>
+
+<p align="center">
+  <sub>Think in systems. Build to understand.</sub>
+</p>
