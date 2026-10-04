@@ -4,21 +4,21 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/title-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./title-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./title-light.svg" />
   <img src="./assets/title-light.svg" alt="Building systems. Testing ideas. — Python, Digital Twins, Cybersecurity, Applied ML" width="800" />
 </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg" />
   <img src="./assets/divider-light.svg" alt="" width="800" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./about-light.svg" />
   <img src="./assets/about-light.svg" alt="About" width="800" />
 </picture>
 
@@ -30,9 +30,9 @@ concepts into working programs, test ideas, and document the
 decisions behind them.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/workbench-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/workbench-light.svg" />
-  <img src="./assets/workbench-light.svg" alt="On my workbench" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="./workbench-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./workbench-light.svg" />
+  <img src="./workbench-light.svg" alt="On my workbench" width="800" />
 </picture>
 
 ### Python from scratch
@@ -48,9 +48,9 @@ Exploring digital-twin modelling and security.
 Research is ongoing; the scope is still evolving.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tools-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tools-light.svg" />
-  <img src="./assets/tools-light.svg" alt="Working with" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="./tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./tools-light.svg" />
+  <img src="./tools-light.svg" alt="Working with" width="800" />
 </picture>
 
 **Languages:** Python · SQL
@@ -58,9 +58,9 @@ Research is ongoing; the scope is still evolving.
 **Data & visualization:** Pandas · NumPy · Matplotlib · Seaborn
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-light.svg" />
-  <img src="./assets/work-light.svg" alt="What you’ll find here" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="./work-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./work-light.svg" />
+  <img src="./work-light.svg" alt="What you’ll find here" width="800" />
 </picture>
 
 - Working programs with clear instructions and example outputs.
@@ -69,9 +69,9 @@ Research is ongoing; the scope is still evolving.
 - A record of progress through increasingly challenging builds.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <img src="./assets/divider-light.svg" alt="" width="800" />
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg" />
+  <img src="./divider-light.svg" alt="" width="800" />
 </picture>
 
 <p align="center">
